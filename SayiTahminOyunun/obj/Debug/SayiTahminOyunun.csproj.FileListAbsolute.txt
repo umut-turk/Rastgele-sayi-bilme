@@ -1,0 +1,8 @@
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\bin\Debug\SayiTahminOyunun.exe.config
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\bin\Debug\SayiTahminOyunun.exe
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\bin\Debug\SayiTahminOyunun.pdb
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\obj\Debug\SayiTahminOyunun.csproj.AssemblyReference.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\obj\Debug\SayiTahminOyunun.csproj.SuggestedBindingRedirects.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\obj\Debug\SayiTahminOyunun.csproj.CoreCompileInputs.cache
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\obj\Debug\SayiTahminOyunun.exe
+C:\Users\UMUT TÜRK\Desktop\cshrap  ornek\SayiTahminOyunun\SayiTahminOyunun\obj\Debug\SayiTahminOyunun.pdb
